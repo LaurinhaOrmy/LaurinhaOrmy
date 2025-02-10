@@ -71,4 +71,6 @@ Here are some ideas to get you started:
 shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpixel-cat-gifs&psig=AOvVaw02dLH1x4upwGrL0jy2Hz4d&ust=1739284185810000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiYjdOouYsDFQAAAAAdAAAAABAn">
+<div align="left">
+  <a><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpixel-cat-  gifs&psig=AOvVaw02dLH1x4upwGrL0jy2Hz4d&ust=1739284185810000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiYjdOouYsDFQAAAAAdAAAAABAn"></a>
+</div>
