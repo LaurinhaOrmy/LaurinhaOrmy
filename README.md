@@ -57,6 +57,8 @@ Here are some ideas to get you started:
         alt="Github Stats"
       />
     </td>
+<p></p>
+<p></p>
 
 ## Onde me encontrar
 
