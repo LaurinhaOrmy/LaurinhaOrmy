@@ -22,14 +22,11 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+<p>📚 Sou uma desenvolvedora full stack e webdesigner, trabalhando atualmente na Localiza.
 
 
-<br/> 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.</p>
+<br/> 💬 Estou procurando projetos para aperfeiçoar meus conhecimentos de linguagens de programação! </p>
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
 
 <p align="left">
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
