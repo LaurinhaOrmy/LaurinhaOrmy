@@ -24,15 +24,13 @@ Here are some ideas to get you started:
 
 <p>📚 Sou uma desenvolvedora full stack e webdesigner, trabalhando atualmente na Localiza.
 
-
 <br/> 💬 Estou procurando projetos para aperfeiçoar meus conhecimentos de linguagens de programação! </p>
 
-
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: **Visual Studio**
 </p>
 
-## 🚀 Minhas Skills
+## 🍓 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
