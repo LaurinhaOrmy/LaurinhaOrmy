@@ -72,5 +72,5 @@ shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=inst
 </p>
 
 <div align="left">
-  <a><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpixel-cat-  gifs&psig=AOvVaw02dLH1x4upwGrL0jy2Hz4d&ust=1739284185810000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiYjdOouYsDFQAAAAAdAAAAABAn"></a>
+  <a><img src="https://media.tenor.com/XHZd187xd7YAAAAj/cat.gif"></a>
 </div>
