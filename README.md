@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>📚 Sou uma desenvolvedora full stack e webdesigner, trabalhando atualmente na Localiza.
-
-<br/> 💬 Estou procurando projetos para aperfeiçoar meus conhecimentos de linguagens de programação! </p>
+<p>📚 Sou uma programadora e webdesigner, trabalhando atualmente na Localiza.
+<br/> 💬 Eu publico alguns projetos e sempre procuro aperfeiçoar as minhas habilidades! </p>
 
 <p align="left">
   💼 Ferramentas: **Visual Studio**
