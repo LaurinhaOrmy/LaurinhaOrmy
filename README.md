@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Olá, meu nome é Laura Ormy!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Laura Ormy&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=LauraOrmy&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>📚 Sou uma programadora e webdesigner, trabalhando atualmente na Localiza.
 <br/> 💬 Eu publico alguns projetos e sempre procuro aperfeiçoar as minhas habilidades! </p>
