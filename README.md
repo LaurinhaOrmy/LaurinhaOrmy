@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LauraOrmy&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>📚 Sou uma programadora e webdesigner, trabalhando atualmente na Localiza.
+<p>📚 Sou uma programadora e webdesigner, porém não trabalho ativamente na área.
 <br/> 💬 Eu publico alguns projetos e sempre procuro aperfeiçoar as minhas habilidades! </p>
 
 <p align="left">
